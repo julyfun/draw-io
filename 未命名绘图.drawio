@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T14:19:37.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="ricydIcokmTqqvdu4OAg" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T14:30:00.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KaBQKgenILaHPKUw0AWq" version="24.0.7" type="github">
   <diagram name="第 1 页" id="iLB-BzWx5xLywFsxun2u">
-    <mxGraphModel>
+    <mxGraphModel dx="918" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;.. and .. and ..&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="200" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;or&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="205" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;or&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="302" y="205" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;.. and .. and ..&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="513" y="200" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;or&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="473" y="205" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;.. and .. and ..&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="200" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;.. and .. and ..&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;.. and .. and ..&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="200" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;or&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="644" y="205" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-14" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 18px;&quot;&gt;蓝色为替换位置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-16" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;这些红色片段任意一段&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;为&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;true，&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;则整个表达式为 true&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-17" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="513" y="260" width="137" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-18" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-21" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="171" y="260" width="29" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-22" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="399" y="260" width="61" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IAbSb5MFlKBm1oMEcxSf-23" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 18px;&quot;&gt;若绿色部分均为 true，&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot; style=&quot;font-size: 18px;&quot;&gt;则替换位置变为 true 就可以&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot; style=&quot;font-size: 18px;&quot;&gt;使替换位置所在的片段为 true&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="192" y="330" width="260" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
